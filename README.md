@@ -1,5 +1,5 @@
-#Integrantes:
-##Carlos Camacho
-##Harrison Valencia
-##Juan David Valencia
-##Kevin Marín
+Integrantes:  
+Carlos Camacho  
+Harrison Valencia  
+Juan David Valencia  
+Kevin Marín  
